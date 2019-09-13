@@ -8,3 +8,4 @@ set shiftwidth=4
 set expandtab
 set tags=./,.tags,/,tags;
 syntax on
+colorscheme torte 
